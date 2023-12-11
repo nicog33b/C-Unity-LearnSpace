@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\FirstUnityWithC#\FirstUnityWithC#\bin\Debug\FirstUnityWithC#.exe.config
+C:\Users\nicol\source\repos\FirstUnityWithC#\FirstUnityWithC#\bin\Debug\FirstUnityWithC#.exe
+C:\Users\nicol\source\repos\FirstUnityWithC#\FirstUnityWithC#\bin\Debug\FirstUnityWithC#.pdb
+C:\Users\nicol\source\repos\FirstUnityWithC#\FirstUnityWithC#\obj\Debug\FirstUnityWithC#.csproj.AssemblyReference.cache
+C:\Users\nicol\source\repos\FirstUnityWithC#\FirstUnityWithC#\obj\Debug\FirstUnityWithC#.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\FirstUnityWithC#\FirstUnityWithC#\obj\Debug\FirstUnityWithC#.exe
+C:\Users\nicol\source\repos\FirstUnityWithC#\FirstUnityWithC#\obj\Debug\FirstUnityWithC#.pdb
