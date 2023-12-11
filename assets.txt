@@ -1,0 +1,17 @@
+En el contexto específico de Unity, "assets" se refiere a los elementos que se utilizan para construir juegos y aplicaciones. En Unity, un "asset" puede ser cualquier recurso que se pueda importar y utilizar en el entorno de desarrollo. Algunos ejemplos comunes de "assets" en Unity son:
+
+Texturas (Textures): Imágenes utilizadas para aplicar superficies a objetos en el juego.
+
+Modelos 3D: Representaciones tridimensionales de objetos y personajes en el juego.
+
+Sonidos y Música: Archivos de audio que se reproducen durante el juego.
+
+Scripts: Código fuente escrito en C# u otro lenguaje compatible con Unity para agregar funcionalidad a objetos en el juego.
+
+Escenas (Scenes): Conjuntos de objetos, luces y cámaras que definen un nivel o una sección específica del juego.
+
+Prefabs: Objetos preconfigurados que se pueden reutilizar y colocar fácilmente en el juego.
+
+Materiales y Shaders: Definen la apariencia visual de objetos y superficies en el juego.
+
+Animaciones: Secuencias de imágenes que crean la ilusión de movimiento.
